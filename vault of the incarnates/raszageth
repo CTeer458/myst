@@ -1,0 +1,25 @@
+intstart
+npc:194990
+spell:385553
+{skull} |cffa330c9Bigtilter|r |cffff7c0aNagurawr|r 
+{cross} |cfffff468Menterr|r |cff3fc7ebToegrinder|r
+{square} |cfff48cbaDphwoar|r |cff33937fPyreheat|r 
+{triangle} |cffc69b6dKaputtmachen|r |cffaad372Fakegor|r 
+{moon} |cffa330c9Raindh|r |cffa330c9Zaxie|r 
+{diamond} |cff0070ddAtkhelicoptr|r |cffaad372Noakesy|r 
+
+liquidStart
+player1 |cfff48cbaChizix|r 
+player2 |cffffffffBobtasticp|r 
+player3 |cff3fc7ebToegrinder|r 
+player4 |cffff7c0aNagurawr|r 
+player5 |cff33937fPyreheat|r 
+player6 |cff00ff98Zaxikael|r 
+player7 |cffc69b6dKaputtmachen|r 
+player8 |cfffff468Luleo|r 
+player9 |cfffff468Menterr|r 
+player10 |cffaad372Noakesy|r 
+player11 |cffff7c0aFaramond|r 
+player12 |cff8788eeAlwaysbroken|r 
+player13 |cff33937fRobbiedn|r 
+liquidEnd

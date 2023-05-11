@@ -1,0 +1,10 @@
+--Port group   STARBOARD DELETE THIS BLOCK
+{time:00:04,SCS:410535:1} Your Soak {spell:410535}
+{time:00:04,SCS:410535:3} Your Soak {spell:410535}
+{time:00:04,SCS:410535:5} Your Soak {spell:410535}
+
+
+--Starboard   PORT DELETE THIS BLOCK
+{time:00:04,SCS:410535:2} Your Soak {spell:410535}
+{time:00:04,SCS:410535:4} Your Soak {spell:410535}
+{time:00:04,SCS:410535:6} Your Soak {spell:410535}

@@ -1,0 +1,41 @@
+startLine
+{skull}411302 |cffc69b6dKaputtmachen|r (|cfff48cbaDphwoar|r |cffff7c0aNagurawr|r |cff3fc7ebToegrinder|r) |cffa330c9Zaxie|r |cff0070ddAtkhelicoptr|r |cfffff468Menterr|r 
+endLine
+"
+"
+"
+{time:03:57} {everyone} Go Down
+{time:04:17} {everyone} Come Up
+
+
+{time:00:05}00:05 - |cffaa0000aoe 8 sec|r - |cfffefefeFlaybach|r {spell:15286}  
+{time:00:41}00:41 - |cff7030a0Breath|r - |cfffefefeNikapp|r {spell:64843}  |cfff38bb9Chizix|r {spell:31821}  |cffc59a6cKaputtmachen|r {spell:97462}  |cff33937fPyreheat|r {spell:374227}  |cff33937fRobbiedn|r {spell:374227}  {everyone} {text}Personals{/text}  |cfffefefeFlaybach|r {spell:72734}  |cff006fdcAtkhelicoptr|r {spell:108281}  
+{time:00:44}00:44 - |cfff88379aoe 8 sec|r - |cff006fdcLukà|r {spell:108280}  |cff006fdcAtkhelicoptr|r {spell:108281}  
+{time:00:45}00:45 - |cff8811ffDisintegrate|r - |cfffefefeBobtasticp|r {spell:265202}  
+{time:01:04}01:04 - |cff8811ffDisintegrate|r - |cfffefefeNikapp|r {spell:64901}  
+{time:01:07}01:07 - |cfff88379aoe 8 sec|r - |cff006fdcLukà|r {spell:114049}  |cff006fdcLukà|r {spell:108281}  
+{time:01:23}01:23 - |cff8811ffDisintegrate|r - |cfffefefeFlaybach|r {spell:15286}  |cff006fdcLukà|r {spell:207399}  |cfffefefeBobtasticp|r {spell:64901}  {everyone} {text}Personals{/text}  {everyone} {spell:441}  
+{time:01:24}01:24 - |cfff88379aoe 8 sec|r - |cfffefefeBobtasticp|r {spell:64843}  |cfff38bb9Zhadeslay|r {spell:204018}  
+{time:01:33}01:33 - |cffaa0000aoe 8 sec|r - |cff006fdcLukà|r {spell:98008}  |cffa22fc8Zaxie|r {spell:196718}  |cfffefefeNikapp|r {spell:265202}  
+{time:01:43}01:43 - |cffe68e3dIntermission Dmg 10 sec|r - {everyone} {text}Gateway{/text}  |cffff7c0aNagurawr|r {spell:77764}  
+{time:00:33,SAR:410625:1}02:41 - |cff0072c6Knock Dispel|r - |cff006fdcAtkhelicoptr|r {spell:108281}  
+{time:00:52,SAR:410625:1}03:00 - |cff238e47Bait Blossom|r - |cfffefefeFlaybach|r {spell:15286}  
+{time:01:02,SAR:410625:1}03:10 - |cff00ffffKnock Debuff|r - |cff33937fPyreheat|r {spell:374227}  |cff33937fRobbiedn|r {spell:374227}  
+{time:01:08,SAR:410625:1}03:16 - |cff0072c6Knock Dispel|r - {everyone} {text}Gateway{/text}  
+{time:01:28,SAR:410625:1}03:36 - |cff238e47Bait Blossom|r - |cff006fdcLukà|r {spell:108281}  
+{time:01:32,SAR:410625:1}03:40 - |cff00ffffKnock Debuff|r - |cff006fdcLukà|r {spell:108280}  |cfff38bb9Chizix|r {spell:31821}  {everyone} {text}Personals{/text}  
+{time:00:25,SAA:410654:1}04:17 - |cff90caf9Come Up|r - |cfffefefeFlaybach|r {spell:15286}  |cfffefefeNikapp|r {spell:64901}  
+{time:01:15,SAA:410654:1}05:07 - |cff0072c6Knock Dispel|r - |cffc59a6cKaputtmachen|r {spell:97462}  {everyone} {text}Personals{/text}  
+{time:01:20,SAA:410654:1}05:12 - |cfff26722Meteor Soak|r - |cfffefefeBobtasticp|r {spell:265202}  
+{time:01:28}05:20 - 4 Stacks - |cfffefefeNikapp|r {spell:64843}  |cfffefefeBobtasticp|r {spell:64901}  |cff006fdcAtkhelicoptr|r {spell:108281}  
+{time:01:47,SAA:410654:1}05:39 - |cfff26722Meteor Soak|r - |cff006fdcLukà|r {spell:114049}  |cff006fdcLukà|r {spell:108281}  |cffa22fc8Zaxie|r {spell:196718}  |cfffefefeBobtasticp|r {spell:64843}  |cfffefefeFlaybach|r {spell:15286}  
+{time:02:06,SAA:410654:1}05:58 - |cff8dc63fHide|r - |cfffefefeNikapp|r {spell:265202}  
+{time:02:28,SAA:410654:1}06:20 - |cff00ffffKnock Debuff|r - {everyone} {spell:6262}  |cfff38bb9Chizix|r {spell:31821}  |cff33937fPyreheat|r {spell:374227}  |cff33937fRobbiedn|r {spell:374227}  {everyone} {text}Personals{/text}  
+{time:02:38}06:30 - Going Down - |cff006fdcLukà|r {spell:108280}  |cff006fdcLukà|r {spell:98008}  {everyone} {spell:441}  
+{time:03:14,SAA:410654:1}07:06 - |cfff26722Meteor Soak|r - |cff006fdcLukà|r {spell:207399}  
+{time:03:22,SAA:410654:1}07:14 - |cff8dc63fHide|r - |cfffefefeFlaybach|r {spell:15286}  
+{time:03:35,SAA:410654:1}07:27 - |cffe68e3dHide AOE|r - |cff006fdcAtkhelicoptr|r {spell:108281}  
+"
+
+
+

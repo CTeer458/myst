@@ -1,14 +1,21 @@
 startLine
 {skull}411302 |cffc69b6dKaputtmachen|r (|cfff48cbaDphwoar|r |cffff7c0aNagurawr|r |cff3fc7ebToegrinder|r) |cffa330c9Zaxie|r |cff0070ddAtkhelicoptr|r |cfffff468Menterr|r 
 endLine
-"
-"
-"
+
+
+liquidStart
+|cffffffffNikapp|r |cff0070ddLukà|r 
+|cff8788eeAlwaysbroken|r |cff8788eeJaaviee|r 
+p3
+|cff3fc7ebToegrinder|r |cffaad372Lairywanker|r 
+|cff8788eeAlwaysbroken|r |cff8788eeJaaviee|r 
+|cff3fc7ebToegrinder|r |cffaad372Lairywanker|r 
+liquidEnd
+
 {time:03:57} {everyone} Go Down
 {time:04:17} {everyone} Come Up
 
 
-"
 {time:06:39} {everyone} Go Down
 {time:06:58} {everyone} Come Up
 
@@ -40,7 +47,7 @@ endLine
 {time:03:14,SAA:410654:1}07:06 - |cfff26722Meteor Soak|r - |cff006fdcLukà|r {spell:207399}  
 {time:03:22,SAA:410654:1}07:14 - |cff8dc63fHide|r - |cfffefefeFlaybach|r {spell:15286}  
 {time:03:35,SAA:410654:1}07:27 - |cffe68e3dHide AOE|r - |cff006fdcAtkhelicoptr|r {spell:108281}  
-"
+
 
 
 

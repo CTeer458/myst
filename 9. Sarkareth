@@ -1,15 +1,15 @@
 startLine
-{skull}411302 |cffc69b6dKaputtmachen|r (|cfff48cbaDphwoar|r) |cffa330c9Zaxie|r |cff0070ddAtkhelicoptr|r |cfffff468Menterr|r (|cffaad372Lairywanker|r |cffaad372Noakesy|r)
+{skull}411302 |cffc69b6dRifaatdd|r (|cfff48cbaDphwoar|r) |cffa330c9Zaxie|r |cffc41e3aNiceapfel|r Blou |cfffff468Yussir|r (|cffaad372Noakesy|r)
 endLine
 
 
 liquidStart
-|cffffffffNikapp|r |cff0070ddLukà|r 
-|cff8788eeAlwaysbroken|r |cff8788eeJaaviee|r 
+{time:02:21} Bomb - |cffffffffNikapp|r |cff0070ddLukà|r
+{time:03:29} Bomb - |cffffffffNikapp|r Alwaysbroken
 p3
-|cff3fc7ebToegrinder|r |cffaad372Lairywanker|r 
-|cff8788eeAlwaysbroken|r |cff8788eeJaaviee|r 
-|cff3fc7ebToegrinder|r |cffaad372Lairywanker|r 
+{time:04:28} Bomb - Nikapp |cff0070ddLukà|r
+{time:05:28} Bomb - |cff8788eeAlwaysbroken|r |cff8788eeJaaviee|r 
+{time:06:26} Bomb - |cff3fc7ebToegrinder|r |cffaad372Noakesy|r 
 liquidEnd
 
 "
@@ -24,7 +24,8 @@ liquidEnd
 {time:06:58} {everyone} Come Up
 
 
-{time:04:30} |cfff48cbaChizix|r |cfff48cbaDphwoar|r Sacrifice Bombs
+{time:04:30} |cfff48cbaChizix|r |cfff48cbaDphwoar|r Sacrifice Bombs {spell:6940}
+
 
 
 "
